@@ -20,7 +20,7 @@ The input:
  ## RR
  Round robin (RR) is a scheduling policy that choose all elements in a group equally in some rational order,
  usually from the top to the bottom of a list and then starting again at the top of the list and so on.
- The implementation of the SJF algorithm can be found in the <a href=" https://github.com/Ayman1255/OS-algorithms/blob/main/RR/RR.java" target="_blank"> RR.java </a> file
+ The implementation of the SJF algorithm can be found in the <a href="https://github.com/Ayman1255/OS-algorithms/blob/main/RR/RR.java" target="_blank"> RR.java </a> file
  
  the input:
  
